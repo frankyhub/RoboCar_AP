@@ -3,6 +3,18 @@
 # RoboCar
 ESP32 Car - WEB-Server über Access Point - Speed-Controll
 
+<div align="center">
+
+  |[:skull:ISSUE](https://github.com/frankyhub/RoboCar_AP/issues?q=is%3Aissue)|[:speech_balloon: Forum /Discussion](https://github.com/frankyhub/RoboCar_AP/discussions)|[:grey_question:WiKi](https://github.com/frankyhub/RoboCar_AP/wiki)|
+|--|--|--|
+| | | |
+|![GitHub issues](https://img.shields.io/github/issues/frankyhub/RoboCar_AP)![GitHub closed issues](https://img.shields.io/github/issues-closed/frankyhub/RoboCar_AP)|![GitHub Discussions](https://img.shields.io/github/discussions/frankyhub/RoboCar_AP)|![GitHub release (with filter)](https://img.shields.io/github/v/release/frankyhub/RoboCar_AP)|
+|![GitHub closed pull requests](https://img.shields.io/github/issues-pr-closed/finaldie/skull.svg)[](https://github.com/frankyhub/RoboCar_AP/pulls)|[<img src="https://img.shields.io/github/license/finaldie/skull.svg">](https://github.com/frankyhub/RoboCar_AP/blob/main/LICENSE.md)| ![GitHub User's stars](https://img.shields.io/github/stars/frankyhub)|
+</div>
+
+
+---
+
 ## Story
 Diese Anleitung beschreibt ein, von einem WEB-Server gesteuertes Fahrzeug. Der Antrieb des RoboCars erfolgt über vier Getriebe-Motore, als Spannungversorgung dienen zwei Akkus. Das Herzstrück ist ein ESP32 NodeMCU. Die Träger-Elemente werden aus zwei 4mm ABS-Platten gelasert. Optional kann das RoboCar um eine Hindernis-Erkennung und eine IR-Fernsteuerung erweitert werden. Die Montage eines Servos, eines Ultraschall-Sensors und eines IR-Empfängers ist vorgesehen.
 Wird kein Ultraschallsensor oder IR-Empfänger montiert, reicht eine Bodenplatte für die Montage der Bauteile aus. Für die Bodenplatte kann auch eine 4mm Sperrholzplatte verwendet werden.
@@ -85,7 +97,9 @@ Mit dem Seriellen Monitor der Arduino IDE die IP-Adresse des WEB-Servers auslese
 - Schritt 11: Die Räder auf die Getriebemotore stecken und verschrauben.
 
 - Schritt 12: Zweiter Funktionstest.
-Mit dem Seriellen Monitor der Arduino IDE die IP-Adresse des WEB-Servers auslesen und im Browser den WEB-Server aufrufen.
+  In den WLAN Einstellungen des Handys/Tablet die ESP_2AABCD wählen und im Browser den WEB-Server mit der IP 192.168.4.1 aufrufen.
+
+![Bild](/pic/ESP32_AP.png)
 
 ![Bild](/pic/BM09.png)
 
