@@ -97,7 +97,7 @@ Mit dem Seriellen Monitor der Arduino IDE die IP-Adresse des WEB-Servers auslese
 - Schritt 11: Die Räder auf die Getriebemotore stecken und verschrauben.
 
 - Schritt 12: Zweiter Funktionstest.
-  In den WLAN Einstellungen des Handys/Tablet die ESP_2AABCD wählen und im Browser den WEB-Server mit der IP 192.168.4.1 aufrufen.
+  In den WLAN Einstellungen des Handys/Tablet den ESP_2AABCD wählen und im Browser den WEB-Server mit der IP 192.168.4.1 aufrufen.
 
 ![Bild](/pic/ESP32_AP.png)
 
