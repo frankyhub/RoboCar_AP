@@ -87,16 +87,12 @@ Die Anschlüsse zum ESP32 mit Platinenstecker verdrahten.
 
 - Schritt 8: Das Programm in den ESP32 laden.
 
-- Schritt 9: Erster Funktionstest.
-Mit dem Seriellen Monitor der Arduino IDE die IP-Adresse des WEB-Servers auslesen und im Browser den WEB-Server aufrufen
-
-- Schritt 10: War der Funktionstest erfolgreich, wird die Bodenplatte und die Deckplatte mit 40mm Abstandshalter miteinander verbunden
 
 ![Bild](/pic/BM08.png)
 
-- Schritt 11: Die Räder auf die Getriebemotore stecken und verschrauben.
+- Schritt 9: Die Räder auf die Getriebemotore stecken und verschrauben.
 
-- Schritt 12: Funktionstest.
+- Schritt 10:
   In den WLAN Einstellungen des Handys/Tablet den ESP_2AABCD wählen und im Browser den WEB-Server mit der IP 192.168.4.1 aufrufen.
 
 ![Bild](/pic/ESP32_AP.png)
