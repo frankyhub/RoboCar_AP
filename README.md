@@ -18,7 +18,8 @@ ESP32 Car - WEB-Server über Access Point - Speed-Controll
 ## Story
 Diese Anleitung beschreibt ein, von einem WEB-Server gesteuertes Fahrzeug. Der Antrieb des RoboCars erfolgt über vier Getriebe-Motore, als Spannungversorgung dienen zwei Akkus. Das Herzstrück ist ein ESP32 NodeMCU. Die Träger-Elemente werden aus zwei 4mm ABS-Platten gelasert. Optional kann das RoboCar um eine Hindernis-Erkennung und eine IR-Fernsteuerung erweitert werden. Die Montage eines Servos, eines Ultraschall-Sensors und eines IR-Empfängers ist vorgesehen.
 Wird kein Ultraschallsensor oder IR-Empfänger montiert, reicht eine Bodenplatte für die Montage der Bauteile aus. Für die Bodenplatte kann auch eine 4mm Sperrholzplatte verwendet werden.
-Nach anlegen der Versorgungsspannung startet das Programm mit einem Access Point (AP). Der AP wird in den WLAN-Einstellungen des Handy/Tablet aufgerufen und danach mit der IP-Adresse 192.168.4.1 der WEB-Server im Browser gestartet. Mit dem WEB-Server steht das Kammerabild und die Motor-Steuer-Buttons zur Verfügung.
+
+Nach anlegen der Versorgungsspannung startet das Programm mit einem Access Point (AP). Der AP wird in den WLAN-Einstellungen des Handy/Tablet aufgerufen und danach mit der IP-Adresse 192.168.4.1 der WEB-Server im Browser gestartet. Mit dem WEB-Server stehen die Motor-Steuer-Buttons und die Speed Einstellung mittels Schieberegler zur Verfügung.
 
 ## Hardware
 
