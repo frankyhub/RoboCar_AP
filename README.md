@@ -87,7 +87,6 @@ Die Platinenhalter tragen das Akku-Case, den ESP32 und die H-Brücke. Sie werden
 
 ![Bild](/pic/SeriellerMonitor.png)
 
-![Bild](/pic/motorspeed.png)
 
 ## - Schritt 7: Optional können die Akkus über ein Solarpanel geladen werden. Als Laderegler dient ein TP4056.
 
