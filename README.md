@@ -20,7 +20,7 @@ Diese Anleitung beschreibt den Aufbau eines RoboCars. Der Antrieb des RoboCars e
 
 In den WLAN-Einstellungen des Handy/Tablet „RoboCar" wählen und den WEB-Server im Browser mit der Adresse 192.168.4.1 starten. 
 
-Mit dem WEB-Server kann das RoboCar vor, zurück rechts und links gesteuert werden. Der Slider dient zur Geschwindigkeitseinstellung des RoboCars.
+Mit dem WEB-Server kann das RoboCar vor, zurück rechts und links gesteuert werden. Der Slider dient zur Geschwindigkeitseinstellung des RoboCars im Bereich zwischen 40% und 100%.
 
 Optional kann die Ladung der Akkus über ein Solarpanel erfolgen.
 
