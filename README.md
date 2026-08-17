@@ -85,7 +85,7 @@ Die Platinenhalter tragen das Akku-Case, den ESP32 und die H-Brücke. Sie werden
 
 ![Bild](/pic/RoboBrowser.png)
 
-![Bild](/pic/sermonitor.png)
+![Bild](/pic/SeriellerMonitor.png)
 
 ![Bild](/pic/motorspeed.png)
 
