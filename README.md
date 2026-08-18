@@ -99,7 +99,7 @@ Die Platinenhalter tragen das Akku-Case, den ESP32 und die H-Brücke. Sie werden
 
 ![Bild](/pic/Laderegler1.png)
 
-
+![Bild](/pic/RCsolar.png)
 
   
 ## - Fertig!
