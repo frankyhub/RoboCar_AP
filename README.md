@@ -95,9 +95,11 @@ Die Platinenhalter tragen das Akku-Case, den ESP32 und die H-Brücke. Sie werden
 
 ![Bild](/pic/Solarpanel.png)
 
-## - Schritt 8: Die Akkus und das Solarpanel verdrahten.
+## - Schritt 8: Die Ladeschaltung verdrahten.
 
 ![Bild](/pic/Laderegler1.png)
+
+## RoboCar mit Solarpanel, Laderegler und Schalter.
 
 ![Bild](/pic/RCsolar.png)
 
