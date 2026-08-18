@@ -5,7 +5,7 @@
   Funktion: ESP32 WEB Server Richtungssteuerung und Speedcontrol 40%-100%, AP
 
 **************************************************************************************************
-  Version: 17.08.2026
+  Version: 18.08.2026
 **************************************************************************************************
   Board: ESP32 DEV KIT V4 Boardverwalter: ESP32 Dev Module V3.3.11
   https://raw.githubusercontent.com/espressif/arduino-esp32/gh-pages/package_esp32_index.json
@@ -189,8 +189,7 @@ void handleSpeed() {
       digitalWrite(motor2Pin1, LOW);
       digitalWrite(motor2Pin2, LOW);
     } else {
-      //dutyCycle = map(value, 25, 100, 200, 255);
-      //dutyCycle = map(value, 0, 255, 0, 255);
+
       dutyCycle = (value * 3);
       ledcWrite(pwmPin, dutyCycle);
       Serial.println("Motor speed " + String(value));
