@@ -71,7 +71,7 @@ Die Platinenhalter tragen das Akku-Case, den ESP32 und die H-Brücke. Sie werden
 
 ![Bild](/pic/Schaltplan.png)
 
-
+![Bild](/pic/RoboCar.png)
 
 
 ## - Schritt 5: Das Programm in den ESP32 laden und auf das Shield stecken.
