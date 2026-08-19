@@ -24,7 +24,7 @@ Mit dem WEB-Server kann das RoboCar vor, zurück rechts und links gesteuert werd
 
 Optional kann die Ladung der Akkus über ein Solarpanel erfolgen.
 
-
+![video](/pic/RoboCar.gif)
 
 ## Hardware
 
