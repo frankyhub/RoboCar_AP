@@ -106,8 +106,7 @@ Die Platinenhalter tragen das Akku-Case, den ESP32 und die H-Brücke. Sie werden
   
 ## - Fertig!
 
-  Das RoboCar ist vor, zurück, stopp, rechts und links mit dem WEB-Server steuerbar. Die Geschwindigkeits-
-  steuerung des RoboCars ist mit einem Slider im WEB-Server in 10er Schritten einstellbar.
+  Das RoboCar ist vor, zurück, stopp, rechts und links mit dem WEB-Server steuerbar. Die Geschwindigkeitssteuerung des RoboCars ist mit einem Slider im WEB-Server in 10er Schritten. on 40% - 100% einstellbar.
   Der WEB-Server ist über den Accses Point direkt mit dem ESP32 verbunden, deshalb ist kein WLAN erforderlich und das RoboCar ist ortsunabhängig. 
   Optional können die drei 18650 Akkus über ein Soloarpanel geladen werden.
 
