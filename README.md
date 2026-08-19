@@ -71,12 +71,12 @@ Die Platinenhalter tragen das Akku-Case, den ESP32 und die H-Brücke. Sie werden
 
 ![Bild](/pic/Schaltplan.png)
 
-![Bild](/pic/RCverdrahtet.png)
+
 
 
 ## - Schritt 5: Das Programm in den ESP32 laden und auf das Shield stecken.
 
-![Bild](/pic/RoboCar.png) 
+![Bild](/pic/ESP32.png) 
 
 ## - Schritt 6: In den WLAN Einstellungen des Handys/Tablet das "RoboCar" wählen und im Browser den WEB-Server mit der IP 192.168.4.1 aufrufen.
 
