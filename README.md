@@ -5,13 +5,16 @@
 |[:skull:ISSUE](https://github.com/frankyhub/RoboCar_AP/issues?q=is%3Aissue)|[:speech_balloon: Forum /Discussion](https://github.com/frankyhub/RoboCar_AP/discussions)|[:grey_question:WiKi](https://github.com/frankyhub/RoboCar_AP/wiki)||
 |--|--|--|--|
 | | | | |
-|![Static Badge](https://img.shields.io/badge/RepoNr.:-%2071-blue)|<a href="https://github.com/frankyhub/RoboCar_AP/issues">![GitHub issues](https://img.shields.io/github/issues/frankyhub/RoboCar_AP)![GitHub closed issues](https://img.shields.io/github/issues-closed/frankyhub/RoboCar_AP)|<a href="https://github.com/frankyhub/RoboCar_AP/discussions">![GitHub Discussions](https://img.shields.io/github/discussions/frankyhub/RoboCar_AP)|<a href="https://github.com/frankyhub/RoboCar_AP/releases">![GitHub release (with filter)](https://img.shields.io/github/v/release/frankyhub/RoboCar_AP)|
-|![GitHub Created At](https://img.shields.io/github/created-at/frankyhub/RoboCar_AP)| <a href="https://github.com/frankyhub/RoboCar_AP/pulse" alt="Activity"><img src="https://img.shields.io/github/commit-activity/m/badges/shields" />| <a href="https://github.com/frankyhub/RoboCar_AP/graphs/traffic"><img alt="ViewCount" src="https://views.whatilearened.today/views/github/frankyhub/github-clone-count-badge.svg">  |<a href="https://github.com/frankyhub?tab=stars"> ![GitHub User's stars](https://img.shields.io/github/stars/frankyhub)|
+<a href="https://github.com/frankyhub/RoboCar_AP/issues">![GitHub issues](https://img.shields.io/github/issues/frankyhub/RoboCar_AP)![GitHub closed issues](https://img.shields.io/github/issues-closed/frankyhub/RoboCar_AP)|<a href="https://github.com/frankyhub/RoboCar_AP/discussions">![GitHub Discussions](https://img.shields.io/github/discussions/frankyhub/RoboCar_AP)|<a href="https://github.com/frankyhub/RoboCar_AP/6eleases">![GitHub release (with filter)](https://img.shields.io/github/v/release/frankyhub/RoboCar_AP)|![Static Badge](https://img.shields.io/badge/RepoNr.:-%2071-blue)|
+|![GitHub Created At](https://img.shields.io/github/created-at/frankyhub/RoboCar_AP)| <a href="https://github.com/frankyhub/RoboCar_AP/pulse" alt="Activity"><img src="https://img.shields.io/github/commit-activity/m/badges/shields" />| <a href="https://github.com/frankyhub/RoboCar_AP/graphs/traffic"><img alt="ViewCount" src="https://views.whatilearened.today/views/github/frankyhub/github-clone-count-badge.svg">  |<a href="https://github.com/frankyhub?tab=stars"> ![GitHub User's stars](https://img.shields.io/github/stars/frankyhub)||
 
 
 
 
+<img src="pic/RoboCar.gif" width="500"> 
+<br> <br>
 
+</div>  
 ---
 
 
@@ -24,7 +27,6 @@ Mit dem WEB-Server kann das RoboCar vor, zurück rechts und links gesteuert werd
 
 Optional kann die Ladung der Akkus über ein Solarpanel erfolgen.
 
-![video](/pic/RoboCar.gif)
 
 ## Hardware
 
@@ -53,56 +55,62 @@ Verwende die Lasercutter Vorlage, bestehend aus:
 1 x Deckplatte.svg
 1 x Bodenplatte.svg
 
-![Bild](/pic/BM02.png)
+<img src="pic/BM02.png" width="500"> 
+<br> <br>
+
 
 ## - Schritt 2: Zwölf Platinenhalter und Kabelführungen drucken.
 Die Platinenhalter tragen das Akku-Case, den ESP32 und die H-Brücke. Sie werden auf die Bodenplatte geklebt.
 
-![Bild](/pic/3D.png)
-
+<img src="pic/3D.png" width="500"> 
+<br> <br>
 
 ## - Schritt 3: Die vier Getriebemotore und den Schalter auf die Grundplatte montieren
 
-![Bild](/pic/RCmontage.png)
-
+<img src="pic/RCmontage.png" width="500"> 
+<br> <br>
 
 ## - Schritt 4: Die Bauelemente nach Schaltplan verdrahten.
 
+<img src="pic/Schaltplan.png" width="500"> 
+<br> <br>
 
-![Bild](/pic/Schaltplan.png)
-
-![Bild](/pic/RoboCar.png)
-
+<img src="pic/RoboCar.png" width="500"> 
+<br> <br>
 
 ## - Schritt 5: Das Programm in den ESP32 laden und auf das Shield stecken.
 
-![Bild](/pic/ESP32.png) 
+<img src="pic/ESP32.png" width="500"> 
+<br> <br>
 
 ## - Schritt 6: In den WLAN Einstellungen des Handys/Tablet das "RoboCar" wählen und im Browser den WEB-Server mit der IP 192.168.4.1 aufrufen.
 
- 
-![Bild](/pic/wlan.png) 
+<img src="pic/wlan.png" width="500"> 
+<br> <br>
 
-![Bild](/pic/RoboBrowser.png)
+<img src="pic/RoboBrowser.png" width="500"> 
+<br> <br>
 
-![Bild](/pic/SeriellerMonitor.png)
-
+<img src="pic/SeriellerMonitor.png" width="500"> 
+<br> <br>
 
 ## - Schritt 7: Optional können die Akkus über ein Solarpanel geladen werden. Als Laderegler dient ein TP4056.
 
-  
-![Bild](/pic/TP4056.png)
+<img src="pic/TP4056.png" width="500"> 
+<br> <br>
 
-![Bild](/pic/Solarpanel.png)
+<img src="pic/Solarpanel.png" width="500"> 
+<br> <br>
 
 ## - Schritt 8: Die Ladeschaltung verdrahten.
 
-![Bild](/pic/Laderegler1.png)
+<img src="pic/Laderegler1.png" width="500"> 
+<br> <br>
 
 ## RoboCar mit Solarpanel, Laderegler und Schalter.
 
-![Bild](/pic/RCsolar.png)
-
+<img src="pic/RCsolar.png" width="500"> 
+<br> <br>
   
 ## - Fertig!
 
