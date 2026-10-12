@@ -11,11 +11,11 @@
 
 
 
-<img src="pic/RoboCar.gif" width="500"> 
+<img src="pic/RoboCar.gif" width="300"> 
 <br> <br>
 
 </div>  
----
+
 
 
 ## Story
